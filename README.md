@@ -1,5 +1,9 @@
 # Operationalizing ML Models
 
+John Hoff  
+Machine Learning Architect  
+jhoff@productiveedge.com  
+
 This is the supporting material for presentations given on operationalizing machine learning models using Azure Databricks and Azure Machine Learning Services.
 
 ![Step 1: Prepare](https://drive.google.com/uc?export=view&id=1HqlB2DVDpn2rTJxmbtLLg-5_egbVCYvK)
