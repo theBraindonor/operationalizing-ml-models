@@ -27,7 +27,10 @@ Standard DSv2 Family vCPUs and Total Regional vCPUs
   + Smallest possible cluster works fine
     + single driver node
     + single worker node 
-  + 5.5 TLS Cluster (NOT ML version)
+  + 7.3 TLS ML (non-GPU)
   + Python modules installed
-    + mlflow==1.3.0
     + azureml-sdk[databricks]
+
+_**Please Note: The ACI and AKS deployment scenarios are not currently supported in these
+notebooks.  These notebooks will be updated once Databricks and Microsoft have sorted out
+the current issues with native Spark MLlib model deployments.**_
